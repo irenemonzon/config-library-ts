@@ -1,3 +1,3 @@
-export const fn= (value:string):void=> {
+export const fn = (value: string): void => {
   console.log(value)
 }
