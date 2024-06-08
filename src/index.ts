@@ -1,3 +1,3 @@
-export function isString (value: unknown): value is string {
-  return typeof value === 'string'
+export const fn= (value:string):void=> {
+  console.log(value)
 }
