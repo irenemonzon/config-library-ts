@@ -1,3 +1,2 @@
-export const fn = (value: string): void => {
-  console.log(value)
-}
+export * from './check'
+export * from './types'
